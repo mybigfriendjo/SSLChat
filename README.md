@@ -1,2 +1,2 @@
-# SSLChat
-An implementation of a SSL secured Chat in CSharp
+# SecureChat
+Implementations of a secured Chat in CSharp
