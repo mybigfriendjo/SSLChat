@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5EA1A2F4-895A-49BA-B364-BBFA68AD73BB}</ProjectGuid>
+    <ProjectGuid>{D3B332AF-F6A1-48AC-8163-D85EB998A2BB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SSLChatClient</RootNamespace>
-    <AssemblyName>SSLChatClient</AssemblyName>
+    <RootNamespace>SecureChatClient</RootNamespace>
+    <AssemblyName>SecureChatClient</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

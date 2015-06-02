@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SSLChatClient {
+namespace SecureChatClient {
 	public partial class frmMain : Form {
 		public frmMain() {
 			InitializeComponent();

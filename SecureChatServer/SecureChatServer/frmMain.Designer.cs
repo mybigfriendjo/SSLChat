@@ -1,4 +1,4 @@
-﻿namespace SSLChatClient {
+﻿namespace SecureChatServer {
 	partial class frmMain {
 		/// <summary>
 		/// Required designer variable.

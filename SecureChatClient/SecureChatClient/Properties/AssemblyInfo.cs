@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SSLChatClient")]
+[assembly: AssemblyTitle("SecureChatClient")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SSLChatClient")]
+[assembly: AssemblyProduct("SecureChatClient")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d4eb6ea9-b164-4f34-9a78-f9792cb0fd2b")]
+[assembly: Guid("0659fabd-3c03-4e0c-93c1-bef6921774a0")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SSLChatClient.Properties {
+namespace SecureChatClient.Properties {
 
 
 	[global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
